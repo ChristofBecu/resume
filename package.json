@@ -1,0 +1,26 @@
+{
+  "name": "christofbecu",
+  "version": "1.0.0",
+  "description": "This is the resume of Christof Becu. God of web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christofbecu/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Christof Becu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christofbecu/resume/issues"
+  },
+  "homepage": "https://github.com/christofbecu/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-kendall": "file:../jsonresume-theme-kendall/jsonresume-theme-kendall-0.2.0.tgz",
+    "moment": "^2.30.1"
+  }
+}

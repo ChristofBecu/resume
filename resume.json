@@ -1,0 +1,343 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Christof Becu",
+    "label": "Fullstack Software Developer",
+    "image": "https://avatars.githubusercontent.com/u/16795074?s=400&u=ae9a34afaf7df9f68b2f3ffceca82ecda0e24bb9&v=4",
+    "email": "christof.becu@gmail.com",
+    "phone": "+32 (0)491 252297",
+    "summary": "Fullstack Software Developer met 3 jaar ervaring in ontwerpen, ontwikkelen en implementeren van schaalbare webapplicaties. Vaardig in zowel frontend- als backend-technologieën, alsook databases. Ervaring in het werken binnen een agile omgeving, met een sterke focus op het leveren van robuuste, hoogwaardige oplossingen die aansluiten op de behoeften van gebruikers. Al van jongs af aan gepassioneerd door computers en technologie en steeds op zoek naar nieuwe leermogelijkheden. Werkt graag samen in teamteamverband  aan klantgerichte doel te werken, maar kan ook zelfstandig complexe vraagstukken oplossen.",
+    "location": {
+      "address": "Magdalenastraat 35",
+      "postalCode": "8200",
+      "city": "Sint-Andries",
+      "countryCode": "BE",
+      "region": "West-Vlaanderen"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ChristofBecu",
+        "url": "https://github.com/ChristofBecu"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "LinkedIn",
+        "url": "https://www.linkedin.com/in/christof-becu-5134936a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Die Keure",
+      "location": "Brugge",
+      "description": "Drukkerij / Uitgeverij",
+      "position": "Orderpicker",
+      "url": "https://diekeure.be",
+      "image": "company-logo.jpg",
+      "startDate": "2024-04-16",
+      "endDate": "2024-09-13",
+      "summary": "Tijdelijke job als orderpicker in het magazijn van Die Keure."
+    },
+    {
+      "name": "Eye-t part of NeoConsult",
+      "location": "Brugge",
+      "description": "ICT-adviesverlener en software ontwikkelingsbedrijf gespecialiseerd in maatwerkoplossingen en in een softwarepakket voor voedingsbeheer voor dienstverlenende organisaties",
+      "position": "Full Stack Developer",
+      "url": "https://eyet.be",
+      "image": "company-logo.jpg",
+      "startDate": "2021-02",
+      "endDate": "2024-04",
+      "keywords": [".NET Core", "Typescript", "Angular", "DevExpress", "Node.js", "TSQL", "SQL Server", "MySQL", "SSRS"],
+      "summary": "Ik was verantwoordelijk voor het ontwikkelen van nieuwe functionaliteiten en het onderhouden van bestaande softwareproducten. Daarbij werkte nauw samen met zowel het ontwikkelingsteam als klanten om hoogwaardige oplossingen te leveren. Mijn taken omvatten ondermeer het ontwerpen van de architectuur van nieuwe projecten, het optimaliseren van oude code en stored procedures, het opstellen van technische documentatie. Daarnaast was ik betrokken bij klantensupport en het oplossen van bugs.",
+      "highlights": [
+        "Ontwikkeling van nieuwe functies voor bestaande softwareproducten",
+        "Nieuwe rapporten ontwikkelen / oude rapporten optimaliseren",
+        "Implementatie van koppelingen met 3rd party software",
+        "Migratie van TFS naar GIT source control van bestaande projecten",
+        "Installatie en configuratie van nieuwe software bij klanten",
+        "Migratie van legacy software on premise bij klanten naar de cloud software",
+        "Problemen met rasperry pi gestuurde touchscreen opgelost",
+        "Bugfixen en refactoren van bestaande software"
+      ]
+    },
+    {
+      "name": "Slabinck Laser Products",
+      "location": "Brugge",
+      "description": "Metaalbewerkingsbedrijf",
+      "position": "Logistiek Medewerker",
+      "url": "https://www.slabinck.be",
+      "image": "company-logo.jpg",
+      "startDate": "2011-09",
+      "endDate": "2017-11",
+      "summary": "Begonnen als medewerker logistiek en verzending met als doel ervoor te zorgen dat alle producten op tijd bij de klanten werden geleverd. Mijn taken omvatten het contact met klanten, het opstellen van documenten, het laden van vrachtwagens en het onderhoud van het magazijn. Later werd ik ook ingezet voor het ontwikkelen van een uitgebreide Excel-oplossing met behulp van VBA, gekoppeld aan een database, om de productie in Brugge af te stemmen met het dochterbedrijf in Macedonië."
+    },
+    {
+      "name": "Daikin Europe nv",
+      "location": "Oostende",
+      "description": "fabrikant en leverancier van systemen voor verwarming, ventilatie en airconditioning",
+      "position": "Arbeider plaatbewerking",
+      "url": "https://www.daikin.be/",
+      "startDate": "2007-05",
+      "endDate": "2009-12",
+      "summary": "Deel van een 4-koppig team die instond voor het persen van metalen platen die dienden voor de airco's."
+    },
+    {
+      "name": "Diverse interimjobs",
+      "location": "Brugge",
+      "position": "Arbeider",
+      "startDate": "2001-01",
+      "endDate": "2007-01",
+      "summary": "Tijdelijke jobs als arbeider in diverse sectoren, waaronder metaal, voeding, tuinbouw en logistiek."
+    },
+    {
+      "name": "IVBO",
+      "location": "Brugge",
+      "description": "Intergemeentelijk samenwerkingsverband voor Vuilverwijdering en -verwerking in Brugge en Ommeland",
+      "position": "Directiesecretaris",
+      "url": "https://www.ivbo.be/",
+      "startDate": "2000-07",
+      "endDate": "2000-09",
+      "summary": "Tijdelijke job als directiesecretaris bij IVBO ter vervanging zwangerschap.",
+      "highlights": [
+        "Opmaken van verslagen van de directie en raad van bestuur",
+        "Opvolging staatsblad en publicaties in de pers m.b.t. afvalverwerking en milieu",
+        "Opvolging van de afwezigheden van het personeel wegens ziekte en beslissen tot het inschakelen van een controlearts"
+      ]
+    },
+    {
+      "name": "Diverse interimjobs",
+      "location": "Brugge",
+      "position": "Arbeider",
+      "startDate": "1996-11",
+      "endDate": "1999-01",
+      "summary": "Tijdelijke jobs als arbeider in diverse sectoren, waaronder voeding, tuinbouw en drukkerij."
+    },
+    {
+      "name": "Himrey Screen",
+      "location": "Zedelgem",
+      "position": "Zeefdrukker",
+      "startDate": "1996-03",
+      "endDate": "1996-08",
+      "summary": "IBO opleiding tot zeefdrukker."
+    },
+    {
+      "name": "New Holland Belgium nv",
+      "location": "Zedelgem",
+      "description": "Landbouwmachines",
+      "position": "Magazijnmedewerker",
+      "url": "https://agriculture.newholland.com",
+      "startDate": "1994-09",
+      "endDate": "1995-09",
+      "summary": "Magazijnmedewerker in het wisselstukkenmagazijn. Mijn takenpakket bestond uit het klaarzetten van bestellingen voor de dealers. Ook nauw betrokken bij de verhuis van het magazijn van Zedelgem naar Eernegem."
+    },
+    {
+      "name": "Diverse interimjobs",
+      "location": "Brugge",
+      "position": "Arbeider",
+      "startDate": "1993-02",
+      "endDate": "1994-05",
+      "summary": "Tijdelijke jobs als arbeider in diverse sectoren, waaronder drukkerij / boekbinderij."
+    }
+
+  ],
+ 
+  "education": [
+    {
+      "institution": "HBOV",
+      "location": "Brugge",
+      "url": "https://www.howest.be",
+      "area": "Programmeren",
+      "studyType": "Graduaat",
+      "startDate": "2019-01-28",
+      "endDate": "2021-01-28",
+      "score": "voldoende geslaagd",
+      "courses": [
+        "Continuous Integration Advanced",
+        "Programming Expert",
+        "Web Backend",
+        "Web Frontend Advanced",
+        "Workplace Simulation",
+        "Advanced IT Skills",
+        "Mobile Development",
+        "Programming Innovation",
+        "Programming Integration",
+        "Workplace Experience I",
+        "Innovative Project",
+        "Workplace Experience II"
+      ]
+    },
+    {
+      "institution": "Randstad",
+      "location": "Brugge",
+      "area": "Heftruck",
+      "studyType": "Brevet",
+      "startDate": "2011-08",
+      "endDate": "2011-08"
+      
+    },
+    {
+      "institution": "Academie voor Beeldende Kunst",
+      "location": "Gent",
+      "area": "Schilderkunst",
+      "studyType": "Avondschool",
+      "startDate": "2004-09",
+      "endDate": "2004-06"
+    },
+    {
+      "institution": "VDAB",
+      "location": "Oostkamp",
+      "area": "Vervolmaking Excel / Access voor gevorderden",
+      "studyType": "Open Leren",
+      "startDate": "2000-05-01",
+      "endDate": "2000-07-01"
+    },
+    {
+      "institution": "VDAB",
+      "location": "Oostkamp",
+      "area": "Administratief Bediende / Boekhoudkundig Bediende",
+      "studyType": "Opleiding",
+      "startDate": "1999-03-23",
+      "endDate": "2000-05-01"
+    },
+    {
+      "institution": "VTI",
+      "location": "Brugge",
+      "area": "Sector Grafisch en audiovisuele technieken",
+      "studyType": "Leertijd",
+      "endDate": "1992-06"
+    },
+    {
+      "institution": "Autodidact",
+      "location": "Brugge",
+      "area": "ICT",
+      "startDate": "1986"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages I worked with",
+      "keywords": [
+        "TypeScript",
+        "C#",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "TSQL",
+        "Powershell",
+        "Bash",
+        "VBA",
+        "Rust",
+        "Python",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Frameworks I worked with",
+      "keywords": [
+        "Angular",
+        "DevExpress",
+        "Node.js",
+        ".NET Core",
+        "Entity Framework",
+        "ASP.NET Core",
+        "Vue",
+        "Next",
+        "Nuxt",
+        "Nx Monorepos"
+      ]
+    },
+    {
+      "name": "Databases I worked with",
+      "keywords": [
+        "SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "Access"
+      ]
+    },
+    {
+      "name": "Tools I worked with",
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Rider",
+        "SQL Server Management Studio",
+        "SSRS",
+        "Report Builder",
+        "HeidiSQL",
+        "Postman",
+        "Git",
+        "TFS",
+        "Azure DevOps",
+        "Github",
+        "Docker",
+        "Eclipse",
+        "Vim",
+        "Github Copilot",
+        "ChatGPT"
+      ]
+    },
+    {
+      "name": "Methodologies I worked with",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Operating systems I worked in",
+      "keywords": [
+        "Linux (various distros)",
+        "Windows (various versions)",
+        "Unix BSD",
+        "OS/2",
+        "DOS"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Teamplayer",
+        "Analytisch",
+        "Leergierig",
+        "Klantgericht",
+        "Probleemoplossend",
+        "Communicatief",
+        "Stressbestendig",
+        "Flexibel",
+        "Zelfstandig"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nederlands",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medior"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Arch Linux"
+    },
+    {
+      "name": "Tuinieren"
+    },
+    {
+      "name": "Jongleren"
+    }
+    
+  ]
+
+}
